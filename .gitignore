@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large datasets and model files
+*.zip
+*.keras
+*.h5
+*.pth
+*.pt
+chemical image dataset/
+dataset_png/
+file list/
+*.pdf
