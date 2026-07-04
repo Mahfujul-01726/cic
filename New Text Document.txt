@@ -1,0 +1,11 @@
+Do these things:
+Show the sample images from every class.
+Show the class-wise image quantity in the different sets using a barplot.
+Perform image preprocessing task(s) and augmentation (if required).
+Use the pre-trained models (VGG, DenseNet, ResNet, Inception, MobileNet, Xception, EfficientNet, and other latest pre-trained models) for classification. Any architectural modification of the Pre-trained model(s) is preferred. 
+You have to use custom CNN also. Make the ensemble of deep learning models if it is required.
+Show the model summary.
+Show the accuracy vs. loss curve for the training and validation set.
+Find Accuracy, Precision, Recall, F1-Score, Confusion Matrix, AUC, and ROC Curve.
+Show the Grad-CAM output.
+Show the LIME output.
